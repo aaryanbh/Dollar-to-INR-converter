@@ -82,7 +82,7 @@ class _CurrencyState extends State<Currency> {
                 padding: EdgeInsets.symmetric(horizontal: 30, vertical: 10),
               ),
             ),
-            C
+
           ],
         ),
       ),
